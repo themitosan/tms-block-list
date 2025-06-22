@@ -16,6 +16,16 @@
 
 cxtem.gastecnologia.com.br
 o1069899.ingest.sentry.io
+ize02.print2brain.org
+api.videodlservice.com
+
+#
+# Spotify
+#
+
+api.spotify.com
+edge-web.dual-gslb.spotify.com
+dealer.spotify.com
 
 #
 # ...Weather?
@@ -28,6 +38,7 @@ api.weather.com
 #
 
 time.google.com
+play-fe.googleapis.com
 mtalk.google.com
 clients.l.google.com
 
