@@ -4,7 +4,7 @@ This list aims to block some nonsense from all-around my internet usage. It may 
 
 Use `block.txt` with [PiHole](https://github.com/pi-hole/pi-hole) or something like [personalDNSfilter](https://github.com/IngoZenz/personaldnsfilter).
 
-## URL
+## URL?
 
 Sure!
 
