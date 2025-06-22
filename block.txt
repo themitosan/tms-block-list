@@ -1,0 +1,63 @@
+#=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=#
+#                                                                                                   #
+#  TMS Block list                                                                                   #
+#  Created by TheMitoSan                                                                            #
+#  @themitosan.bsky.social                                                                          #
+#                                                                                                   #
+#=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=#
+#                                                                                                   #
+# This list aims to block some nonsense from all-around my internet usage. It may break some stuff! #
+#                                                                                                   #
+#=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=#
+
+#
+# General URLs
+#
+
+cxtem.gastecnologia.com.br
+o1069899.ingest.sentry.io
+
+#
+# ...Weather?
+#
+
+api.weather.com
+
+#
+# Google URLs
+#
+
+time.google.com
+mtalk.google.com
+clients.l.google.com
+
+#
+# Android URLs
+#
+
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+android.apis.google.com
+android.clients.google.com
+
+#
+# Samsung URLs
+#
+
+play.samsungcloud.com
+tos-dev-getdata.samsung-dict.com
+tos-prod-getdata.samsung-dict.com
+tos-stg-getdata.samsung-dict.com
+scloud-p2uw2-ext.elb.samsungcloud.com
+
+#
+# Cloudfront URLs
+#
+
+d3m8plp1k5lgs0.cloudfront.net
+d1n7xmeah22vuo.cloudfront.net
+d3j43t55q86nba.cloudfront.net
