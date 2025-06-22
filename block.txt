@@ -1,14 +1,15 @@
-#=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=#
-#                                                                                                   #
-#  TMS Block list                                                                                   #
-#  Created by TheMitoSan                                                                            #
-#  @themitosan.bsky.social                                                                          #
-#                                                                                                   #
-#=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=#
-#                                                                                                   #
-# This list aims to block some nonsense from all-around my internet usage. It may break some stuff! #
-#                                                                                                   #
-#=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=#
+#=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-#
+#                                                        #
+#  TMS Block list                                        #
+#  Created by TheMitoSan                                 #
+#  @themitosan.bsky.social                               #
+#                                                        #
+#=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-#
+#                                                        #
+# This list aims to block some nonsense from             #
+# all-around my internet usage. It may break some stuff! #
+#                                                        #
+#=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-#
 
 #
 # General URLs

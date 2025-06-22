@@ -6,7 +6,7 @@ Use `block.txt` with [PiHole](https://github.com/pi-hole/pi-hole) or something l
 
 ## URL?
 
-Sure!
+_...Sure!_
 
 ```
 https://raw.githubusercontent.com/themitosan/tms-block-list/refs/heads/main/block.txt
