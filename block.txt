@@ -15,6 +15,7 @@
 # General URLs
 #
 
+adobe-aem.map.fastly.net
 cxtem.gastecnologia.com.br
 o1069899.ingest.sentry.io
 ize02.print2brain.org
@@ -61,6 +62,7 @@ android.clients.google.com
 # Samsung URLs
 #
 
+ers.samsungcloud.com
 play.samsungcloud.com
 tos-dev-getdata.samsung-dict.com
 tos-prod-getdata.samsung-dict.com
