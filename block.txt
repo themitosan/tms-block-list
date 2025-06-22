@@ -42,6 +42,7 @@ time.google.com
 play-fe.googleapis.com
 mtalk.google.com
 clients.l.google.com
+geomobileservices-pa.googleapis.com
 
 #
 # Android URLs
