@@ -1,4 +1,4 @@
-# tms-block-list
+# TMS Block List
 
 This list aims to block some nonsense from all-around my internet usage. It may break some stuff!
 
