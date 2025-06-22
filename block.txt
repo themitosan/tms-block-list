@@ -66,6 +66,7 @@ tos-dev-getdata.samsung-dict.com
 tos-prod-getdata.samsung-dict.com
 tos-stg-getdata.samsung-dict.com
 scloud-p2uw2-ext.elb.samsungcloud.com
+poll.gras.samsungdm.com
 
 #
 # Gambling
