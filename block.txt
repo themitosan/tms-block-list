@@ -65,7 +65,7 @@ android.clients.google.com
 
 ers.samsungcloud.com
 play.samsungcloud.com
-br-odc.samsungapps.comk
+br-odc.samsungapps.com
 poll.gras.samsungdm.com
 tos-stg-getdata.samsung-dict.com
 tos-dev-getdata.samsung-dict.com
