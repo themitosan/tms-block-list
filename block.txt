@@ -43,6 +43,7 @@ api.weather.com
 
 time.google.com
 mtalk.google.com
+google.com/js/th
 clients.l.google.com
 update.googleapis.com
 play-fe.googleapis.com
@@ -70,6 +71,8 @@ ers.samsungcloud.com
 play.samsungcloud.com
 br-odc.samsungapps.com
 poll.gras.samsungdm.com
+dls.di.atlas.samsung.com
+dls-gcp.di.atlas.samsung.com
 tos-stg-getdata.samsung-dict.com
 tos-dev-getdata.samsung-dict.com
 tos-prod-getdata.samsung-dict.com
