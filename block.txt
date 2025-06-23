@@ -18,9 +18,10 @@
 
 ize02.print2brain.org
 api.videodlservice.com
+trackingapp.olx.com.br
 adobe-aem.map.fastly.net
-cxtem.gastecnologia.com.br
 o1069899.ingest.sentry.io
+lurker-webserver-env-prod.eba-gmdkfmjy.us-east-1.elasticbeanstalk.com
 
 #
 # Spotify
@@ -43,6 +44,7 @@ api.weather.com
 time.google.com
 mtalk.google.com
 clients.l.google.com
+update.googleapis.com
 play-fe.googleapis.com
 geomobileservices-pa.googleapis.com
 
@@ -63,6 +65,7 @@ android.clients.google.com
 # Samsung URLs
 #
 
+vas.samsungapps.com
 ers.samsungcloud.com
 play.samsungcloud.com
 br-odc.samsungapps.com
