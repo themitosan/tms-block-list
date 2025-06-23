@@ -16,12 +16,20 @@
 # General URLs
 #
 
+valid.x86.fr
+alive.github.com
 ize02.print2brain.org
 api.videodlservice.com
 trackingapp.olx.com.br
 adobe-aem.map.fastly.net
 o1069899.ingest.sentry.io
 lurker-webserver-env-prod.eba-gmdkfmjy.us-east-1.elasticbeanstalk.com
+
+#
+# Smart TV URLs
+#
+
+br.rdx2.lgtvsdp.com
 
 #
 # Spotify
@@ -47,6 +55,7 @@ google.com/js/th
 clients.l.google.com
 update.googleapis.com
 play-fe.googleapis.com
+dls.di.atlas.samsung.com
 geomobileservices-pa.googleapis.com
 
 #
