@@ -65,7 +65,7 @@ android.clients.google.com
 
 ers.samsungcloud.com
 play.samsungcloud.com
-br-odc.samsungapps.com
+br-odc.samsungapps.comk
 poll.gras.samsungdm.com
 tos-stg-getdata.samsung-dict.com
 tos-dev-getdata.samsung-dict.com
@@ -73,6 +73,13 @@ tos-prod-getdata.samsung-dict.com
 samsung-ingestion.edge.hiyaapi.com
 scloud-p2uw2-ext.elb.samsungcloud.com
 br-odc.samsungapps.com.cdn.cloudflare.net
+
+#
+# Phishing
+#
+
+u51217301.ct.sendgrid.net # URL shown in John Hammond's phishing website video - YT id: CFjATtMAm8A
+65.21.195.97              # Phshing IP shown in in John Hammond's video - YT id: y1WgyR4c-4A
 
 #
 # Gambling
