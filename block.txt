@@ -54,6 +54,7 @@ mtalk.google.com
 google.com/js/th
 clients.l.google.com
 update.googleapis.com
+developers.google.com
 play-fe.googleapis.com
 dls.di.atlas.samsung.com
 geomobileservices-pa.googleapis.com
@@ -81,16 +82,21 @@ vas.samsungapps.com
 ers.samsungcloud.com
 ers.samsungcloudplatform.com
 play.samsungcloud.com
+api.samsungcontent.com
 br-odc.samsungapps.com
 poll.gras.samsungdm.com
+terms.samsungcontent.com
 dls.di.atlas.samsung.com
+sa-sdk.di.atlas.samsung.com
 dls-gcp.di.atlas.samsung.com
+policies.account.samsung.com
 tos-stg-getdata.samsung-dict.com
 tos-dev-getdata.samsung-dict.com
 tos-prod-getdata.samsung-dict.com
 samsung-ingestion.edge.hiyaapi.com
 scloud-p2uw2-ext.elb.samsungcloud.com
 br-odc.samsungapps.com.cdn.cloudflare.net
+api-sa-useast1-eks2.k8s.samsungconsent.com
 
 #
 # Phishing
