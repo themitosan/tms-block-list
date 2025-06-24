@@ -76,11 +76,9 @@ android.clients.google.com
 # Samsung URLs
 #
 
-sdk.pushmessage.samsung.com
-capi.samsungcloud.com
 vas.samsungapps.com
 ers.samsungcloud.com
-ers.samsungcloudplatform.com
+capi.samsungcloud.com
 play.samsungcloud.com
 api.samsungcontent.com
 br-odc.samsungapps.com
@@ -88,6 +86,8 @@ poll.gras.samsungdm.com
 terms.samsungcontent.com
 dls.di.atlas.samsung.com
 sa-sdk.di.atlas.samsung.com
+sdk.pushmessage.samsung.com
+ers.samsungcloudplatform.com
 dls-gcp.di.atlas.samsung.com
 policies.account.samsung.com
 tos-stg-getdata.samsung-dict.com
