@@ -75,6 +75,7 @@ android.clients.google.com
 # Samsung URLs
 #
 
+sdk.pushmessage.samsung.com
 capi.samsungcloud.com
 vas.samsungapps.com
 ers.samsungcloud.com
