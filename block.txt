@@ -78,6 +78,7 @@ android.clients.google.com
 capi.samsungcloud.com
 vas.samsungapps.com
 ers.samsungcloud.com
+ers.samsungcloudplatform.com
 play.samsungcloud.com
 br-odc.samsungapps.com
 poll.gras.samsungdm.com
