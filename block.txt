@@ -76,6 +76,9 @@ android.clients.google.com
 # Samsung URLs
 #
 
+dir-apis.samsungdm.com
+eu-dir-apis.samsungdiroute.net
+dc.dqa.samsung.com
 vas.samsungapps.com
 ers.samsungcloud.com
 capi.samsungcloud.com
