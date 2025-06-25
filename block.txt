@@ -76,6 +76,10 @@ android.clients.google.com
 # Samsung URLs
 #
 
+fota-cloud-dn.ospserver.net
+eip-overlay.secak-fota-dn.samsungdm.com.akahost.net
+samsung-callerprofile.edge.hiyaapi.com
+samsung-directory.edge.hiyaapi.com
 dir-apis.samsungdm.com
 eu-dir-apis.samsungdiroute.net
 dc.dqa.samsung.com
