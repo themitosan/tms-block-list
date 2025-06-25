@@ -80,34 +80,34 @@ android.clients.google.com
 # Samsung URLs
 #
 
-fota-cloud-dn.ospserver.net
-eip-overlay.secak-fota-dn.samsungdm.com.akahost.net
-samsung-callerprofile.edge.hiyaapi.com
-samsung-directory.edge.hiyaapi.com
-dir-apis.samsungdm.com
-eu-dir-apis.samsungdiroute.net
 dc.dqa.samsung.com
 vas.samsungapps.com
 ers.samsungcloud.com
 capi.samsungcloud.com
 play.samsungcloud.com
+dir-apis.samsungdm.com
 api.samsungcontent.com
 br-odc.samsungapps.com
 poll.gras.samsungdm.com
 terms.samsungcontent.com
 dls.di.atlas.samsung.com
+fota-cloud-dn.ospserver.net
 sa-sdk.di.atlas.samsung.com
 sdk.pushmessage.samsung.com
 ers.samsungcloudplatform.com
 dls-gcp.di.atlas.samsung.com
 policies.account.samsung.com
+eu-dir-apis.samsungdiroute.net
 tos-stg-getdata.samsung-dict.com
 tos-dev-getdata.samsung-dict.com
 tos-prod-getdata.samsung-dict.com
+samsung-directory.edge.hiyaapi.com
 samsung-ingestion.edge.hiyaapi.com
 scloud-p2uw2-ext.elb.samsungcloud.com
+samsung-callerprofile.edge.hiyaapi.com
 br-odc.samsungapps.com.cdn.cloudflare.net
 api-sa-useast1-eks2.k8s.samsungconsent.com
+eip-overlay.secak-fota-dn.samsungdm.com.akahost.net
 
 #
 # Phishing
