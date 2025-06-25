@@ -1,14 +1,18 @@
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==#
 #                                                          #
+#                         -= ~ =-                          #
+#                                                          #
 #                   -= TMS Block list =-                   #
 #               -= Created by TheMitoSan =-                #
 #                                                          #
-#                 @themitosan.bsky.social                  #
+#              -= @themitosan.bsky.social =-               #
+#                                                          #
+#                         -= ~ =-                          #
 #                                                          #
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-#
 #                                                          #
 #  This list aims to block some nonsense from all-around   #
-#  my internet usage. It may break some stuff!             #
+#  my internet usage.   >> It may break some stuff! <<     #
 #                                                          #
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-#
 
