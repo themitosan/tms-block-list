@@ -108,6 +108,7 @@ samsung-callerprofile.edge.hiyaapi.com
 br-odc.samsungapps.com.cdn.cloudflare.net
 api-sa-useast1-eks2.k8s.samsungconsent.com
 eip-overlay.secak-fota-dn.samsungdm.com.akahost.net
+samsung-auth.edge.hiyaapi.com
 
 #
 # Phishing
