@@ -97,6 +97,7 @@ sdk.pushmessage.samsung.com
 ers.samsungcloudplatform.com
 dls-gcp.di.atlas.samsung.com
 policies.account.samsung.com
+samsung-auth.edge.hiyaapi.com
 eu-dir-apis.samsungdiroute.net
 tos-stg-getdata.samsung-dict.com
 tos-dev-getdata.samsung-dict.com
@@ -108,13 +109,12 @@ samsung-callerprofile.edge.hiyaapi.com
 br-odc.samsungapps.com.cdn.cloudflare.net
 api-sa-useast1-eks2.k8s.samsungconsent.com
 eip-overlay.secak-fota-dn.samsungdm.com.akahost.net
-samsung-auth.edge.hiyaapi.com
 
 #
 # Malware
 #
 
-ofkkfd24.work.gd # URL shown in John Hammond's video - YT id: LwKOS10lblk
+ofkkfd24.work.gd          # URL shown in John Hammond's video - YT id: LwKOS10lblk
 u51217301.ct.sendgrid.net # URL shown in John Hammond's phishing website video - YT id: CFjATtMAm8A
 65.21.195.97              # Phshing IP shown in in John Hammond's video - YT id: y1WgyR4c-4A
 
