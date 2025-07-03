@@ -54,7 +54,6 @@ api.weather.com
 # Google URLs
 #
 
-google.com/js
 time.google.com
 mtalk.google.com
 clients.l.google.com
