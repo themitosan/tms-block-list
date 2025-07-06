@@ -2,17 +2,14 @@
 #                                                          #
 #                         -= ~ =-                          #
 #                                                          #
-#                   -= TMS Block list =-                   #
+#                   -= TMS Block List =-                   #
 #               -= Created by TheMitoSan =-                #
 #                                                          #
 #              -= @themitosan.bsky.social =-               #
 #                                                          #
+#                     -= block.txt =-                      #
+#                                                          #
 #                         -= ~ =-                          #
-#                                                          #
-#=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-#
-#                                                          #
-#  This list aims to block some nonsense from all-around   #
-#  my internet usage.   >> It may break some stuff! <<     #
 #                                                          #
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-#
 

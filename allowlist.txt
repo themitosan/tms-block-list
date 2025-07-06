@@ -1,0 +1,26 @@
+#=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==#
+#                                                          #
+#                         -= ~ =-                          #
+#                                                          #
+#                   -= TMS Block List =-                   #
+#               -= Created by TheMitoSan =-                #
+#                                                          #
+#              -= @themitosan.bsky.social =-               #
+#                                                          #
+#                    -= allowlist.txt =-                   #
+#                                                          #
+#                         -= ~ =-                          #
+#                                                          #
+#=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-#
+
+#
+# Bradesco Internet Banking
+#
+
+www.m.bradesco.com.br
+static.bradesco.com.br
+dynatrace.psg.bradesco.com.br
+api-transc.apps.transc.bradesco.com.br
+api-platca.apps.platcan.bradesco.com.br
+api-platfu.apps.platfun.bradesco.com.br
+publish-p128342-e1259725.adobeaemcloud.com
