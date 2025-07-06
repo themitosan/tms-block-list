@@ -24,3 +24,30 @@ api-transc.apps.transc.bradesco.com.br
 api-platca.apps.platcan.bradesco.com.br
 api-platfu.apps.platfun.bradesco.com.br
 publish-p128342-e1259725.adobeaemcloud.com
+
+#
+# Tech Stuff
+#
+
+sourceforge.net
+stackoverflow.com
+
+#
+# Game / Console Modding
+#
+
+files.gamebanana.com
+store.fastly.steamstatic.com
+
+#
+# Online Stores
+#
+
+addons.mozilla.org
+mercadolivre.com.br
+
+#
+# Misc.
+#
+
+soundcloud.com
