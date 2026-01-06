@@ -107,6 +107,12 @@ api-sa-useast1-eks2.k8s.samsungconsent.com
 eip-overlay.secak-fota-dn.samsungdm.com.akahost.net
 
 #
+# Epic Games
+#
+
+https://datarouter.ol.epicgames.com
+
+#
 # Malware
 #
 
