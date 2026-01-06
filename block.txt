@@ -55,6 +55,7 @@ api.weather.com
 
 time.google.com
 mtalk.google.com
+www.googleapis.com
 play.googleapis.com
 clients.l.google.com
 update.googleapis.com
@@ -74,6 +75,7 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+android.apís.google.com
 
 #
 # Samsung URLs
