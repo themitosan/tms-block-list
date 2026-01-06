@@ -70,8 +70,6 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
-android.apis.google.com
-android.clients.google.com
 
 #
 # Samsung URLs
@@ -113,14 +111,32 @@ eip-overlay.secak-fota-dn.samsungdm.com.akahost.net
 https://datarouter.ol.epicgames.com
 
 #
+# Microsoft
+#
+
+dns.msftncsi.com
+client.wns.windows.com
+ctldl.windowsupdate.com
+pti.store.microsoft.com
+ipv6.msftconnecttest.com
+msedge.api.cdp.microsoft.com
+tile-service.weather.microsoft.com
+
+#
+# Nvidia
+#
+
+services.gfe.nvidia.com
+
+#
 # Malware
 #
 
-ofkkfd24.work.gd          # URL shown in John Hammond's video - YT id: LwKOS10lblk
-u51217301.ct.sendgrid.net # URL shown in John Hammond's video - YT id: CFjATtMAm8A
-dxxxy-1gv7.onrender.com   # URL shown in John Hammond's video - YT id: zsFVJCWOpb8
-65.21.195.97              # IP shown in John Hammond's video - YT id: y1WgyR4c-4A
-45.88.186.152             # IP shown in John Hammond's video - YT id : sznUqJHlzUo
+ofkkfd24.work.gd # URL shown in John Hammond's video - YT id: LwKOS10lblk
+u51217301.ct.sendgrid.net # URL shown in John Hammond's video - YT id: CFjATtMAm8A 
+dxxxy-1gv7.onrender.com # URL shown in John Hammond's video - YT id: zsFVJCWOpb8
+65.21.195.97 # IP shown in John Hammond's video - YT id: y1WgyR4c-4A
+45.88.186.152 # IP shown in John Hammond's video - YT id : sznUqJHlzUo
 
 #
 # Gambling
