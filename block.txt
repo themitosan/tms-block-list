@@ -18,6 +18,7 @@
 #
 
 valid.x86.fr
+play.google.com
 alive.github.com
 ize02.print2brain.org
 api.videodlservice.com
@@ -42,6 +43,12 @@ mtalk.google.com
 dealer.spotify.com
 global-dealer-ssl.spotify.com
 edge-web.dual-gslb.spotify.com
+
+#
+# AI Slop
+#
+
+static.netify.ai
 
 #
 # ...Weather?
@@ -123,6 +130,7 @@ datarouter.ol.epicgames.com
 # Microsoft
 #
 
+microsoft.com
 dns.msftncsi.com
 client.wns.windows.com
 ctldl.windowsupdate.com
