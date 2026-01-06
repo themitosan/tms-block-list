@@ -17,7 +17,13 @@
 # General URLs
 #
 
+
 valid.x86.fr
+t22649263.org
+t165658705.org
+t907965216.org
+t2009805934.org
+t1083488311.org
 play.google.com
 alive.github.com
 ize02.print2brain.org
@@ -48,7 +54,42 @@ edge-web.dual-gslb.spotify.com
 # AI Slop
 #
 
+lobe.ai
+copy.ai
+grok.com
+ai21.com
+lyndi.ai
+canva.com
+cohere.ai
+bigml.com
+deepl.com
+openai.com
+capcut.com
+elicit.org
+zapier.com
+kaggle.com
+pictory.ai
+replika.ai
+soundraw.io
+chatgpt.com
+descript.com
+runwayml.com
+synthesia.io
+character.ai
+quillbot.com
+deepmind.com
+synthesis.ai
+perplexity.ai
+grammarly.com
+csail.mit.edu
+anthropic.com
+midjourney.com
+tensorflow.org
+huggingface.co
 static.netify.ai
+gemini.google.com
+platform.openai.com
+copilot.microsoft.com
 
 #
 # ...Weather?
@@ -127,7 +168,7 @@ eip-overlay.secak-fota-dn.samsungdm.com.akahost.net
 datarouter.ol.epicgames.com
 
 #
-# Microsoft
+# MicroSlop
 #
 
 microsoft.com
