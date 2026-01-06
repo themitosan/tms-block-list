@@ -112,7 +112,7 @@ eip-overlay.secak-fota-dn.samsungdm.com.akahost.net
 # Epic Games
 #
 
-https://datarouter.ol.epicgames.com
+datarouter.ol.epicgames.com
 
 #
 # Microsoft
