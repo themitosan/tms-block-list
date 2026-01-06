@@ -62,6 +62,7 @@ update.googleapis.com
 developers.google.com
 play-fe.googleapis.com
 dls.di.atlas.samsung.com
+people-pa.googleapis.com
 mobile-gtalk.l.google.com
 geomobileservices-pa.googleapis.com
 
@@ -92,6 +93,7 @@ br-odc.samsungapps.com
 poll.gras.samsungdm.com
 terms.samsungcontent.com
 dls.di.atlas.samsung.com
+wu2z-api.samsungcloud.com
 sa-sdk.di.atlas.samsung.com
 sdk.pushmessage.samsung.com
 ers.samsungcloudplatform.com
