@@ -38,7 +38,9 @@ br.rdx2.lgtvsdp.com
 #
 
 api.spotify.com
+mtalk.google.com
 dealer.spotify.com
+global-dealer-ssl.spotify.com
 edge-web.dual-gslb.spotify.com
 
 #
@@ -53,11 +55,13 @@ api.weather.com
 
 time.google.com
 mtalk.google.com
+play.googleapis.com
 clients.l.google.com
 update.googleapis.com
 developers.google.com
 play-fe.googleapis.com
 dls.di.atlas.samsung.com
+mobile-gtalk.l.google.com
 geomobileservices-pa.googleapis.com
 
 #
