@@ -92,10 +92,12 @@ platform.openai.com
 copilot.microsoft.com
 
 #
-# ...Weather?
+# Meta
 #
 
-api.weather.com
+facebook.com
+instagram.com
+web.facebook.com
 
 #
 # Google URLs
